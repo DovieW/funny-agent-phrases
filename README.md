@@ -1,6 +1,6 @@
 # Funny Agent Phrases
 
-Collecting some funny phrases that can be given to an agent to be selected from randomly.
+Collecting some funny phrases that can be given to an agent to be selected from randomly whilte it's thinking/working.
 
 ## VS Code / GitHub Copilot Setup
 Search for "phrases" in the settings (introduced in 1.110). Click "Edit in settings.json".
